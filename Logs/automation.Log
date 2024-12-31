@@ -1,0 +1,9 @@
+2024-12-29 16:34:25,833 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\ACER\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-12-29 16:34:28,079 - root - INFO - ********** test_add_new_customer **********
+2024-12-29 16:34:50,256 - root - INFO - ********** Login Success **********
+2024-12-29 16:34:50,256 - root - INFO - ********* Starting Add New Customer Test... *********
+2024-12-29 16:34:52,359 - root - INFO - ********** Clicked 'Customers' Menu... **********
+2024-12-29 16:34:56,151 - root - INFO - ********** Clicked Sub Menu 'Customers'... **********
+2024-12-29 16:35:00,404 - root - INFO - Table name = ['James Pan']
+2024-12-29 16:35:00,404 - root - INFO - Count = 1
+2024-12-29 16:35:00,475 - root - INFO - ****** Test Case 'test_search_customer' is Passed! ******
