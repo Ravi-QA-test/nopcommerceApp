@@ -19,7 +19,7 @@ class AddNewCustomerPage:
     multidrpdwn_newsletter_xpath = "SelectedNewsletterSubscriptionStoreIds"
     lstbox_customerroles_xpath = "SelectedCustomerRoleIds"
     drpdwn_vendor_xpath = "//*[@id='VendorId']/option[2]"
-    txt_admincomment_id = "AdminCommen"
+    txt_admincomment_id = "AdminComment"
     btn_save_name = "save"
     mail_grid_xpath = "//*[@id='customers-grid']/tbody/tr[1]/td[2]"
 
