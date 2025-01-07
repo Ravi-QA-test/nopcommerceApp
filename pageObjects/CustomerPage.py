@@ -11,11 +11,11 @@ class CustomersPage:
 
     def click_on_customers_menu(self):
         self.driver.find_element(By.XPATH, self.lnk_customers_menu_xpath).click()
-        time.sleep(2)
+        time.sleep(3)
 
     def click_on_customers_menuitem(self):
         self.driver.find_element(By.XPATH, self.lnk_customers_menuitem_xpath).click()
-        time.sleep(3)
+        time.sleep(4)
 
 # (1) Why we use Page Object Model (POM)?
 # Ans: Once we locate the elements, we can reuse those elements in multiple test cases using POM.
