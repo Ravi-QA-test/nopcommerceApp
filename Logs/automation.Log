@@ -1,9 +1,21 @@
-2024-12-29 16:34:25,833 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\ACER\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
-2024-12-29 16:34:28,079 - root - INFO - ********** test_add_new_customer **********
-2024-12-29 16:34:50,256 - root - INFO - ********** Login Success **********
-2024-12-29 16:34:50,256 - root - INFO - ********* Starting Add New Customer Test... *********
-2024-12-29 16:34:52,359 - root - INFO - ********** Clicked 'Customers' Menu... **********
-2024-12-29 16:34:56,151 - root - INFO - ********** Clicked Sub Menu 'Customers'... **********
-2024-12-29 16:35:00,404 - root - INFO - Table name = ['James Pan']
-2024-12-29 16:35:00,404 - root - INFO - Count = 1
-2024-12-29 16:35:00,475 - root - INFO - ****** Test Case 'test_search_customer' is Passed! ******
+2025-01-07 19:57:15,492 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\ACER\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-07 19:57:17,662 - root - INFO - ********** test_add_new_customer **********
+2025-01-07 19:57:40,682 - root - INFO - ********** Login Success **********
+2025-01-07 19:57:40,682 - root - INFO - ********* Starting Add New Customer Test... *********
+2025-01-07 19:57:42,827 - root - INFO - ********** Clicked 'Customers' Menu... **********
+2025-01-07 19:57:47,200 - root - INFO - ********** Clicked Sub Menu 'Customers'... **********
+2025-01-07 19:57:49,914 - root - INFO - ********* Clicked 'Add New Customer' button... *********
+2025-01-07 19:57:49,914 - root - INFO - ********** Providing Add New Customer Info... **********
+2025-01-07 19:58:07,451 - root - INFO - ****** Test Case 'test_add_new_customer' is Passed! ******
+2025-01-07 19:58:08,273 - root - INFO - ********** test_test_home_page_title **********
+2025-01-07 19:58:15,949 - root - INFO - ****** Test Case 'test_home_page_title' is Passed! ******
+2025-01-07 19:58:16,619 - root - INFO - ********** test_login **********
+2025-01-07 19:58:40,302 - root - INFO - ****** Test Case 'test_login' is Passed! ******
+2025-01-07 19:58:40,997 - root - INFO - ********** test_add_new_customer **********
+2025-01-07 19:59:03,213 - root - INFO - ********** Login Success **********
+2025-01-07 19:59:03,213 - root - INFO - ********* Starting Add New Customer Test... *********
+2025-01-07 19:59:05,336 - root - INFO - ********** Clicked 'Customers' Menu... **********
+2025-01-07 19:59:09,427 - root - INFO - ********** Clicked Sub Menu 'Customers'... **********
+2025-01-07 19:59:13,728 - root - INFO - Table name = ['James Pan']
+2025-01-07 19:59:13,728 - root - INFO - Count = 1
+2025-01-07 19:59:13,803 - root - INFO - ****** Test Case 'test_search_customer' is Passed! ******
