@@ -7,8 +7,6 @@ import time
 
 class AddNewCustomerPage:
 
-    lnk_customers_menu_xpath = "//p[contains(.,'Customers')]"
-    lnk_customers_menuitem_xpath = "//li[4]/ul/li/a/p"
     lnk_addnewcustomer_linktext = "Add new"
     txt_email_id = "Email"
     txt_password_id = "Password"

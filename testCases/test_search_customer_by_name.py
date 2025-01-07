@@ -1,7 +1,5 @@
-from itertools import count
-
-import pytest
 from selenium.webdriver.common.by import By
+import pytest
 from utilities.customLogger import LogGenerate
 from utilities.readProperties import ReadConfig
 from pageObjects.LoginPage import LoginPage
