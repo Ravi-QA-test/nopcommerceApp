@@ -3,7 +3,7 @@ import pytest
 from utilities.customLogger import LogGenerate
 from utilities.readProperties import ReadConfig
 from pageObjects.LoginPage import LoginPage
-from pageObjects.CustomerPage import CustomersPage
+from pageObjects.CustomersPage import CustomersPage
 from pageObjects.SearchCustomerPage import SearchCustomerPage
 import time
 

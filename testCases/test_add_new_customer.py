@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from utilities.customLogger import LogGenerate
 from utilities.readProperties import ReadConfig
 from pageObjects.LoginPage import LoginPage
-from pageObjects.CustomerPage import CustomersPage
+from pageObjects.CustomersPage import CustomersPage
 from pageObjects.AddNewCustomerPage import AddNewCustomerPage
 import time
 
